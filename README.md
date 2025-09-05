@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sonakshi Biswas  
 
-<!--
-**sonakshi-biswas/sonakshi-biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science student | 📚 Foundation Level at IIT Madras BS in Data Science & Programming  
+💻 Passionate about **Data Science, AI/ML, and Programming**  
+🌱 Currently learning **Python, SQL, Java, and Git**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools  
+- **Languages**: Python 🐍 | Java ☕ | SQL 📊  
+- **Tools**: Git & GitHub | Jupyter Notebook | VS Code | MySQL | Pandas, NumPy  
+- **Areas of Interest**: Data Science | Machine Learning | AI | Software Development  
+
+---
+
+✨ *"Code. Learn. Build. Repeat."*  
+💡 Fun fact: I enjoy exploring tech, and I love bringing creative ideas into reality 🚀  
