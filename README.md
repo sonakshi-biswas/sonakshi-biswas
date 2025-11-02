@@ -46,7 +46,7 @@ To develop expertise in **AI, ML, and Data Science**, and create **intelligent, 
 ## 🌐 **Let’s Connect**
 📧 **Email:** [biswassonakshi92@gmail.com]  
 💼 **LinkedIn:**  
-🐙 **GitHub:**  
+🐙 **GitHub:**  https://github.com/sonakshi-biswas
 
 ---
 
